@@ -1,0 +1,10 @@
+En este trabajo practico deben:
+
+- Crear un archivo <apellido.txt>
+- Revisar una vez por semana "la palabra" que figura al final de este archivo
+- Pegar una estrofa de una cancion que incluya la palabra que figura en este archivo.
+- Agregar la modificacion al staging area, commitear el cambio y "pushearlo"
+- El commit debe tener el siguiente formato:
+        "#<dni> - <Apellido> - <Palabra clave>
+
+la palabra de esta semana es: "CANTA/CANTAR"
