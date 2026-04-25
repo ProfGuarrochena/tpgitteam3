@@ -8,3 +8,8 @@ En este trabajo practico deben:
         "#<dni> - <Apellido> - <Palabra clave>
 
 la palabra de esta semana es: "CANTA/CANTAR"
+
+
+----------------------------------
+
+La palabra de la segunda semana es: "DIA/DIAS"
