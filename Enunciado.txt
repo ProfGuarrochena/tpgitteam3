@@ -13,3 +13,7 @@ la palabra de esta semana es: "CANTA/CANTAR"
 ----------------------------------
 
 La palabra de la segunda semana es: "DIA/DIAS"
+
+----------------------------------
+
+La palabra de la Tercera semana es: "diablo"
